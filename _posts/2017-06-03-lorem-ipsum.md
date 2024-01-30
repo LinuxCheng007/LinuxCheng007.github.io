@@ -2,7 +2,7 @@
 layout: post
 title:  "Lorem ipsum"
 date:   2024-01-30 16:42
-category: category1
+category: 学习内容
 icon: www
 keywords: tag1, tag2
 image: 1.jpg
