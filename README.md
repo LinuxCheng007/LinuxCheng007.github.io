@@ -1,5 +1,5 @@
 # Future Imperfect Theme on Jekyll
->by [Kapitonenko](https://kaptn.ru)
+>by [AChengLinux](https://www.weibo.com/u/6056434188)
 
 <https://future-imperfect.kaptn.ru> - demo  
 <https://github.com/kaptn3/future-imperfect/> - repository
