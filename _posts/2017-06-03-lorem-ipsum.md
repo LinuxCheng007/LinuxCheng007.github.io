@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lorem ipsum"
+title:  "网站诞生"
 date:   2017-06-03 00:00
 category: Category1
 icon: www
