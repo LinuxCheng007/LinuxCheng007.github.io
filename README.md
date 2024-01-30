@@ -50,7 +50,7 @@ More details about all features and setting can be view on [here](#features).
 ```
 layout: post
 title:  "Lorem"
-date:   2017-06-04 00:00
+date:   2024-01-30 16:42
 category: category_name
 icon: git
 keywords: tag1, tag2
