@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "不知道写啥"
+title:  "Lorem ipsum"
 date:   2024-01-30 16:42
 category: category1
 icon: www
