@@ -70,7 +70,7 @@ permalink: /学习内容/
 {% include category.html %}
 ```
 
-You can see example in [here](https://github.com/kaptn3/future-imperfect/blob/master/学习内容) or [here](https://github.com/kaptn3/blog/blob/master/category2).
+You can see example in [here](https://github.com/kaptn3/future-imperfect/blob/master/学习内容) or [here](https://github.com/kaptn3/blog/blob/master/日常吐槽).
 
 ## Features
 ### Categories
