@@ -1,6 +1,6 @@
 # blog page sections
-- name: 学习内容
-  href: '/学习内容/'
+- name: category1
+  href: '/category1/'
 
 - name: 日常吐槽
   href: '/日常吐槽/'
