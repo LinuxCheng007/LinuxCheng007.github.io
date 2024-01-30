@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "学习内容"
+title:  "Lorem ipsum"
 date:   2024-01-30 16:42
-category: 学习内容
+category: category1
 icon: www
 keywords: tag1, tag2
 image: 1.jpg
