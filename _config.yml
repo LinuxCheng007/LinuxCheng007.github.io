@@ -6,14 +6,14 @@ url: "https://future-imperfect.kaptn.ru" # the base hostname & protocol for your
 
 
 author:
-  name: 'Viktoriya Kapitonenko'
+  name: 'AChengLinux'
   last_name: 'Kapitonenko'
   cv: '//kaptn.ru'
   avatar: '/images/avatar.jpeg'
   github_username:  kaptn3  
   email: vika@kaptn.ru
   vk_id: id201664979
-  telegram_name: vikapitoshka 
+  telegram_name: AChengLinux 
   logo: '/images/logo.svg'
 
 # Build settings
