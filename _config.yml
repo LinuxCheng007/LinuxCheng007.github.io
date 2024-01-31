@@ -4,11 +4,11 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /个人网站
 url: "https://www.weibo.com/u/6056434188" # the base hostname & protocol for your site, e.g. http://example.com
 
-title: BiliBili
-description: > # this means to ignore newlines until "baseurl:"
+title1: BiliBili
+description1: > # this means to ignore newlines until "baseurl:"
   Aheng Liunx  BiliBili<br>
-baseurl: "" # the subpath of your site, e.g. /个人网站
-url: "https://space.bilibili.com/448510885
+baseurl1: "" # the subpath of your site, e.g. /个人网站
+url1: "https://space.bilibili.com/448510885
 author:
   name: 'AChengLinux'
   last_name: 'AChengLinux'
