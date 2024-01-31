@@ -1,10 +1,14 @@
-title: ACheng
+title: 微博主页
 description: > # this means to ignore newlines until "baseurl:"
-  Aheng_Liunx  微博主页<br>
+  Aheng Liunx  微博主页<br>
 baseurl: "" # the subpath of your site, e.g. /个人网站
 url: "https://www.weibo.com/u/6056434188" # the base hostname & protocol for your site, e.g. http://example.com
 
-
+title: ACheng
+description: > # this means to ignore newlines until "baseurl:"
+  Aheng Liunx  BiliBili<br>
+baseurl: "" # the subpath of your site, e.g. /个人网站
+url: "https://space.bilibili.com/448510885
 author:
   name: 'AChengLinux'
   last_name: 'AChengLinux'
